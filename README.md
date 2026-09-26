@@ -40,6 +40,8 @@ I analyzed the data to explore:
 * Freelancer distribution by country
 * Freelancer characteristics and performance
 
+<img width="1693" height="412" alt="Screenshot 2026-09-26 021903" src="https://github.com/user-attachments/assets/c4da0899-a498-403c-8947-642fef8543e2" />
+
 ## 📊 Dashboard
 
 The Excel dashboard contains visualizations for:
