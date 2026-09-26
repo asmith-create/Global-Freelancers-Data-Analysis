@@ -67,7 +67,7 @@ Through this project, I practiced:
 
 ## 📁 Project Files
 
-`Global_Freelancers_Analysis.xlsx` contains the cleaned data, PivotTables, analysis, and dashboard.
+`Global Freelancers Data Analysis.xlsx` contains the cleaned data, PivotTables, analysis, and dashboard.
 
 ## 🚀 Future Improvements
 
