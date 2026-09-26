@@ -1,4 +1,4 @@
-# global-freelancers-data-analysis
+# Global-Freelancers-Data-Analysis
 Excel data analysis project exploring global freelancer demographics, skills, experience, ratings, and hourly rates.
 
 # Global Freelancers Data Analysis
